@@ -40,7 +40,7 @@ Speech is silver, silence is golden.
 
 <!-- markdownlint-disable MD033 -->
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCpJEWOQslUmCbBhu7Z5I6Cg/featured?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCpJEWOQslUmCbBhu7Z5I6Cg/featured?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bartosz-osi%C5%84ski-8248a421b/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <!-- markdownlint-enable MD033 -->
