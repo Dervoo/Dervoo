@@ -46,11 +46,8 @@ Speech is silver, silence is golden.
   <a href="https://www.linkedin.com/in/bartosz-osi%C5%84ski-8248a421b/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-### Checkout my website:
+### [Checkout my website!](https://bchaindevosinski.netlify.app/)
 
-<p>
-<a href="https://bchaindevosinski.netlify.app/"><img alt="Website" title="Website" src="https://img.shields.io/badge/Website-Up-green"/></a>
-</p>
 <!-- markdownlint-enable MD033 -->
 
 [My favourite IDE!🔥👑](https://remix-project.org/)
