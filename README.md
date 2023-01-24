@@ -15,21 +15,33 @@
 Blockchain enjoyer. Openzeppelin lover. Ethernaut solver. What can I do?
 
 - NFT marketplace 🏬
+- Music NFT 🎴
+- 3D NFT 🎴
+- Rentable NFT 🎴
 - Upgradeable contracts 📈
 - Lazy minting 🔨
 - ERC20 ⚛️
 - ERC721 ⚛️
 - ERC1155 ⚛️
 - Signatures EIP712 📑
-- Wallet connection 👛 (Metamask, Coinbase Wallet, Fortmatic, Portis, BurnerConnect)
-- DAO Governance 🗳️
+- Wallet connection Web3 Modal 👛 (Metamask, Coinbase Wallet, Fortmatic, Portis, BurnerConnect)
+- DAO Governance (Tally, Snapshot, Custom) 🗳️
+- DeFi Oracle 👀
 - Starknet Layer2 solutions 🌐
 - ZkSync Layer2 solutions 🌐
 - IPFS decentralized storage 💽
+- NFT.Storage decentralized storage 💽
 - Staking token ⚛️
+- Token Swaps ⚛️
 - OpenZeppelin Defender 🛡️ (Best command center for smart contracts) 
-- Founder 🧰 (alternative environment for smart contracts) 
-- Web3 functionality for smart contracts 🌐
+- Founder (alternative environment for smart contracts) 🧰
+- Blockchain ENV (Hardhat, Truffle, Brownie) 🏡
+- Web3 functionality for smart contracts (Html, JS, TS, React) 🌐
+- Smart Contract Audit Tools (Safety & Monitoring) ✅
+- Solana NFT & Blockchain functionalities ✳️
+- Cardano NFT ✴️
+- Web3 Unity 🏬
+- Blockchain Support for Discord / Telegram / Google Workspace / GitHub :iphone:
 
 
 ```md
