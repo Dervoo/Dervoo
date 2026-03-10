@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=830606&background=A6FFC900&center=true&vCenter=true&width=600&height=100&lines=Blockchain+Developer;Data+Specialist;AI+Analyst;Solidity+%2B+Python;Agentic+AI">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=30&color=00BFFF&background=A6FFC900&center=true&vCenter=true&width=600&height=100&lines=Blockchain+Developer;Data+Specialist;AI+Analyst;Solidity+%2B+Python;Agentic+AI">
 </p>
 
 #### ![](https://img.shields.io/badge/Blockchain-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=red) ![](https://img.shields.io/badge/Data-Analyst-informational?style=flat&logo=googleanalytics&logoColor=white&color=blue) ![](https://img.shields.io/badge/AI-Agentic_Models-informational?style=flat&logo=openai&logoColor=white&color=blue) ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=red) ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tool-Power_BI-informational?style=flat&logo=powerbi&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tool-Excel-informational?style=flat&logo=microsoftexcel&logoColor=white&color=green) ![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=blue)
