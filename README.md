@@ -6,49 +6,50 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=30&color=00BFFF&background=A6FFC900&center=true&vCenter=true&width=600&height=100&lines=Blockchain+Developer;Data+Specialist;AI+Analyst;Solidity+%2B+Python;Agentic+AI">
 </p>
 
-#### ![](https://img.shields.io/badge/Blockchain-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=red) ![](https://img.shields.io/badge/Data-Analyst-informational?style=flat&logo=googleanalytics&logoColor=white&color=blue) ![](https://img.shields.io/badge/AI-Agentic_Models-informational?style=flat&logo=openai&logoColor=white&color=blue) ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=red) ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tool-Power_BI-informational?style=flat&logo=powerbi&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tool-Excel-informational?style=flat&logo=microsoftexcel&logoColor=white&color=green) ![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=blue)
-## ⚡ About me!!! 🤫🇵🇱🔍
+#### ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue) ![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tool-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=red) ![](https://img.shields.io/badge/Tool-Power_BI-informational?style=flat&logo=powerbi&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tool-Excel-informational?style=flat&logo=microsoftexcel&logoColor=white&color=green) ![](https://img.shields.io/badge/Blockchain-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=red) 
 
-Blockchain Developer bridging the gap between Web3 logic and data-driven intelligence. What can I do?
+## ⚡ Professional Summary 🇵🇱
+
+Blockchain Developer & Data Analyst bridging the gap between Web3 logic and data-driven intelligence. 
 
 **🧠 AI & Data Analysis:**
-- AI Agentic Models (Autonomous Agents, LangChain, LLM integration) 🤖
-- Data Analysis & Visualization (Power BI, Matplotlib, Seaborn) 📊
-- Database querying & management (SQL, PostgreSQL, MySQL) 🗄️
+- Interactive Data Apps & Visualizations (Streamlit, Power BI, Matplotlib) 📊
+- Database querying & management (SQL, PostgreSQL) 🗄️
 - Advanced Data Processing (Python, Pandas, NumPy) 🐍
 - Business Intelligence & Excel (Power Query, DAX, Advanced Modeling) 📈
-- Predictive Analytics & Machine Learning basics 🔮
+- AI Agentic Models (Autonomous Agents, LLM integration) 🤖
 
 **⛓️ Blockchain & Web3:**
 - Smart Contracts (Solidity, OpenZeppelin) 🛡️
-- NFT Ecosystems (Marketplaces, Music, 3D, Rentable, Lazy Minting) 🎴
-- Token Standards (ERC20, ERC721, ERC1155) ⚛️
-- Signatures EIP712 📑
+- Token Standards (ERC20, ERC721, ERC1155) & NFT Ecosystems ⚛️
 - Layer 2 Solutions (Starknet, ZkSync) 🌐
-- DeFi Oracles & Staking tokens 🏦
-- DAO Governance (Tally, Snapshot, Custom) 🗳️
-- Wallet connection Web3 Modal 👛
-- IPFS & NFT.Storage decentralized storage 💽
-- Blockchain ENV (Hardhat, Truffle, Brownie) 🏡
+- DeFi Oracles, Staking tokens & DAO Governance 🏦
+- Data & Storage (IPFS, NFT.Storage) 💽
 
 > Data is the new oil, but code is the engine.
 
+## 🚀 Featured Projects
+* **[Olist Master Analysis](https://github.com/Dervoo/Olist-Master-Analysis/tree/main)** - *SQL, Pandas, Power BI* | Comprehensive e-commerce data pipeline, processing, and interactive business visualization.
+* **[Amazon Database Architecture](https://github.com/Dervoo/Amazon-Database)** - *PostgreSQL, Python* | Relational database design, structuring, and data management for product analytics.
+* **[Web3 Smart Contract Core](https://github.com/Dervoo/SolidityHardhatThreeCore)** - *Solidity, Hardhat, Web3* | Foundational smart contract infrastructure and decentralized logic implementation.
+* **[Python PIM & ML Engine](https://github.com/Dervoo/PythonPimTest)** - *Python, Streamlit, Machine Learning* | Interactive data application being expanded with predictive modeling capabilities.
+
+## 🌱 Currently Exploring & Building
+* **Agentic AI Integration:** Implementing advanced LLM workflows (Claude 3.5, Gemini 1.5).
+* **Decentralized Governance:** Developing robust DAO ecosystems and blockchain automation protocols.
+* **Web3 Commerce:** Architecting full-stack NFT Marketplaces.
+
 ## 🙋‍♂️ Contact & Support
 
-❤️ If you like things I do, give them a ⭐ and share them with others!
-
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCpJEWOQslUmCbBhu7Z5I6Cg/featured?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bartosz-osi%C5%84ski-8248a421b/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCpJEWOQslUmCbBhu7Z5I6Cg/featured?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ### [Checkout my website!](https://bchaindevosinski.netlify.app/)
 
-[My favourite IDE!🔥👑](https://remix-project.org/)
-
 ---
-
-**Languages, Tools and Interest:** <p align="left"> 
+**Languages, Tools and Interests:** <p align="left"> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
